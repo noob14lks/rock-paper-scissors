@@ -1,11 +1,11 @@
 # Rock-Paper-Scissors game
 
-This is a simple Human vs Computer Rock-Paper-Scissors game created using HTML and JavaScript.
+This is a simple Human vs Computer Rock-Paper-Scissors game created using HTML, CSS and JavaScript.
 
 ## How to play
 1. Open `index.html` in a browser.
-2. Click on Inspect and open console.
-3. Enter your choice in the prompt box(rock, paper or scissors).
+2. Click on start game.
+3. Enter on the picture of your choice.
 
 ## Rules
 1. It's a five round game.
